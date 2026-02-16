@@ -1,0 +1,4 @@
+python3-dominate: copyright-without-copyright-notice
+python3-dominate: initial-upload-closes-no-bugs
+python3-dominate: no-manual-page
+python3-dominate: zero-byte-file-in-doc-directory

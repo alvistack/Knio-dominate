@@ -1,0 +1,5 @@
+python-dominate source: file-without-copyright-information
+python-dominate source: no-debian-changes
+python-dominate source: source-contains-prebuilt-windows-binary
+python-dominate source: source-is-missing
+python-dominate source: source-package-encodes-python-version
